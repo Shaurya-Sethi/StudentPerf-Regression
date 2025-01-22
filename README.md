@@ -89,26 +89,26 @@ Models were compared based on the following metrics:
 
 ---
 ## Actual vs Predicted values Table Data
-[View the Interactive Table](https://shaurya-sethi.github.io/StudentPerf-Regression/LostTable.html)
+[View the Interactive Table](https://shaurya-sethi.github.io/StudentPerf-Regression/StudentperfLRAvsP.html)
 
 ## Visualizations
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](corrplot.png)
 
 ### Distribution of Final Grades
-![G3 Distribution](images/g3_distribution.png)
+![G3 Distribution](G3Dist.png)
 
 ### Residual plots
-![Residual Distribution](images/actual_vs_predicted.png)
-![Residuals vs Fitted](images/actual_vs_predicted.png)
-![Normal Q-Q](images/actual_vs_predicted.png)
-![Scale-Location](images/actual_vs_predicted.png)
-![Residual vs Leverage](images/actual_vs_predicted.png)
+![Residual Distribution](ResDist.png)
+![Residuals vs Fitted](Res1.png)
+![Normal Q-Q](Res2.png)
+![Scale-Location](Res3.png)
+![Residual vs Leverage](Res4.png)
 
 ### Actual vs Predicted Values
-![Full vs Reduced](images/actual_vs_predicted.png)
-![Model Comparison for all 3](images/actual_vs_predicted.png)
+![Full vs Reduced](AVP1.png)
+![Model Comparison for all 3](AVP2.png)
 
 ## Conclusion
 
